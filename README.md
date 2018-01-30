@@ -1,5 +1,4 @@
 
-[![Build Status](https://travis-ci.org/marco-zangari/django-imager.svg?branch=master)](https://travis-ci.org/marco-zangari/django-imager)
 
 **Author**: Han Bao and Marco Zangari
 
